@@ -1,9 +1,5 @@
 # 002_Introduction-to-Trading
-# 📊 Sistema de Trading Automatizado 
-
-Bot de trading algorítmico con optimización bayesiana
-
-## 🎯 Características
+# 📊 Systematic trading, backtesting and strategy parameters. 
 
 - Estrategia "2-de-3" con RSI, EMA y MACD
 - Optimización con Optuna (60 trials)
