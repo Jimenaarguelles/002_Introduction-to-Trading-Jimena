@@ -1,4 +1,4 @@
-# 002_Introduction-to-Trading-Jimena
+# 002_Introduction-to-Trading
 # 📊 Sistema de Trading Automatizado BTC/USDT
 
 Bot de trading algorítmico con optimización bayesiana para Bitcoin.
