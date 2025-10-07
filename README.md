@@ -1,7 +1,7 @@
 # 002_Introduction-to-Trading
-# 📊 Sistema de Trading Automatizado BTC/USDT
+# 📊 Sistema de Trading Automatizado 
 
-Bot de trading algorítmico con optimización bayesiana para Bitcoin.
+Bot de trading algorítmico con optimización bayesiana
 
 ## 🎯 Características
 
